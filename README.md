@@ -4,6 +4,6 @@
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px"
-  height="100" width="100">
+  height="200" width="200">
   
 ![main](https://github.com/nbalamur03/notiDrive-Unity/assets/90981845/27da8faf-d15c-4c8f-a5fc-12b79e891d00)
