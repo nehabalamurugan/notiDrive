@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+future
+numpy; python_version < '3.0'
+numpy==1.18.4; python_version >= '3.0'
+pygame
+matplotlib
+open3d
+Pillow
+=======
+future
+numpy; python_version < '3.0'
+numpy==1.18.4; python_version >= '3.0'
+pygame
+matplotlib
+open3d
+Pillow
+>>>>>>> 00e23bff4de5381bc60fcd2b0230a8a7c6a0d72d
