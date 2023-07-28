@@ -4,6 +4,7 @@
   alt="Alt text"
   title="NotiDrive Icon"
   style="display: inline-block; margin: 0 auto; max-width: 300px"
+  img align="right"
   height="200" width="200">
 
   ***
