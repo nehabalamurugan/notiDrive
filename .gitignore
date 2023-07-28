@@ -1,6 +1,13 @@
 # Created by https://www.toptal.com/developers/gitignore/api/unity,visualstudio,python
 # Edit at https://www.toptal.com/developers/gitignore?templates=unity,visualstudio,python
 
+##CARLA##
+CarlaUE4/
+HDMaps/
+carlaSimulation/
+
+
+
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
